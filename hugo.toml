@@ -1,0 +1,4 @@
+baseURL = 'https://TuozheMa.github.io/'
+languageCode = 'en-us'
+title = 'Tuozhe Ma'
+theme = "ananke"
